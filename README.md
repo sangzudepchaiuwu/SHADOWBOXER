@@ -68,6 +68,7 @@ Người chơi sẽ nhập vai vào một võ sĩ dưới góc nhìn thứ nhấ
 ---
 
 ## 📁 Cấu trúc Dự án
+```
 SHADOWBOXER/
 │
 ├── shadow_boxer_ai.py        # File chính (main game loop + AI + gameplay)
@@ -105,7 +106,7 @@ SHADOWBOXER/
 - **MediaPipe** – nhận diện pose (AI)  
 - **Pygame** – render game + UI  
 - **NumPy** – xử lý toán học  
-
+```
 ---
 
 ## 🖥️ Cài đặt Môi trường
