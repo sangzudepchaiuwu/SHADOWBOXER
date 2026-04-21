@@ -97,6 +97,7 @@ SHADOWBOXER/
 │
 ├── Video/                   # 🎬 Video intro
 │   └── Boxer_s_Gritty_Alleyway_Club_Entrance.mp4
+```
 ---
 
 ## ⚙️ Công nghệ sử dụng
@@ -106,7 +107,6 @@ SHADOWBOXER/
 - **MediaPipe** – nhận diện pose (AI)  
 - **Pygame** – render game + UI  
 - **NumPy** – xử lý toán học  
-```
 ---
 
 ## 🖥️ Cài đặt Môi trường
