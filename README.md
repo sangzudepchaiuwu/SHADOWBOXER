@@ -68,7 +68,34 @@ Người chơi sẽ nhập vai vào một võ sĩ dưới góc nhìn thứ nhấ
 ---
 
 ## 📁 Cấu trúc Dự án
-
+SHADOWBOXER/
+│
+├── shadow_boxer_ai.py        # File chính (main game loop + AI + gameplay)
+├── README.md              
+├── requirements.txt         
+│
+├── IMGS/                    # 📸 Tài nguyên hình ảnh
+│   ├── Stage1.png
+│   ├── Stage2.png
+│   ├── Stage3.png
+│   ├── enemystage1.png
+│   ├── STANDINGENEMY2.png
+│   ├── STANDINGENEMY3.png
+│   ├── GLOVE1.png
+│   ├── GLOVE2.PNG
+│   ├── championship_belt.png
+│   └── ... (effect hit / block / punch)
+│
+├── Music/                   # 🔊 Âm thanh & nhạc nền
+│   ├── BACKGROUND MUSIC.mp4
+│   ├── STAGE FIGHT.mp4
+│   ├── STORY-MUSIC.wav
+│   ├── PUNCH EFECT.wav
+│   ├── WIN EFECT.mp4
+│   └── ...
+│
+├── Video/                   # 🎬 Video intro
+│   └── Boxer_s_Gritty_Alleyway_Club_Entrance.mp4
 ---
 
 ## ⚙️ Công nghệ sử dụng
