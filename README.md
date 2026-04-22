@@ -37,7 +37,7 @@ Người chơi sẽ nhập vai vào một võ sĩ dưới góc nhìn thứ nhấ
     - Đấm đầu: damage cao
     - Đấm thân: damage trung bình
     - Đỡ đòn giảm hoặc chặn sát thương
-<img src="Screenshot 2026-04-08 134048.png" alt="gameplay" width="200"/>
+<img src="Screenshot 2026-04-08 134048.png" alt="gameplay" width="800"/>
 * **AI đối thủ:**  
   - Tự động:
     - Tấn công theo thời gian ngẫu nhiên
